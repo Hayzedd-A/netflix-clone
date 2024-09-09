@@ -13,7 +13,7 @@ function Banner() {
         <div id="button-container">
           <button id="play-button">
             <img
-              style="width: 0.8rem; height: 0.8rem;"
+              // style="width: 0.8rem; height: 0.8rem;"
               src="/assests/play.png"
             />
             <span>Play</span>

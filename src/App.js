@@ -10,7 +10,7 @@ import WatchList from "./pages/WatchList";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/home",
+      path: "",
       // exact: true,
       element: <Home />,
       errorElement: <NotFound />,

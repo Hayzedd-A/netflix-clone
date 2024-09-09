@@ -183,10 +183,10 @@ input::-webkit-input-placeholder {
 /* ----Banner---- */
 
 #banner-container {
-  width: 98.75vw;
-  height: 72.5vh;
+  /* width: 98.75vw; */
+  /* height: 72.5vh; */
   margin-bottom: 7px;
-  position: relative;
+  /* position: relative; */
 }
 
 #banner {
